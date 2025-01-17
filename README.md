@@ -1,6 +1,6 @@
-# AI Assistance API
+# AI Assistance 
 
-AI Assistance API is a FastAPI-based application designed to provide **answers**, **step-by-step hints**, and **feedback** for educational purposes. The application leverages AWS Bedrock to interact with large language models, ensuring precise and efficient responses.
+AI Assistance API is a FastAPI-based application that provides **answers**, **step-by-step hints**, and **feedback** for educational purposes. The application leverages AWS Bedrock to interact with large language models, ensuring precise and efficient responses.
 
 ---
 
@@ -8,7 +8,7 @@ AI Assistance API is a FastAPI-based application designed to provide **answers**
 
 - **Get Answers**: Provides concise answers to user queries.
 - **Generate Hints**: Produces step-by-step hints to guide users from basic to advanced concepts.
-- **Provide Feedback**: Evaluates a user's input and returns constructive feedback.
+- **Provide Feedback**: Evaluate a user's input and return constructive feedback.
 - **AWS Bedrock Integration**: Uses Bedrock to interact with foundation models.
 
 ---
